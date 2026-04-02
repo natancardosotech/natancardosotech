@@ -44,5 +44,5 @@ Busco criar projetos com design profissional, código limpo e boas práticas.
 
 ## 📫 Contato
 
-📧 [seuemail@gmail.com](mailto:seuemail@gmail.com)
+📧 natancardoso.tech@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/natan-cardoso-tech/
