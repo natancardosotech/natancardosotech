@@ -46,3 +46,4 @@ Busco criar projetos com design profissional, código limpo e boas práticas.
 
 📧 natancardoso.tech@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/natan-cardoso-tech/
+📞 (13)97425-6252
